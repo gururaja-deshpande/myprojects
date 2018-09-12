@@ -2,6 +2,7 @@
 #define LOGINCHECKER_H
 
 #include <QObject>
+/* Code added by Gururaja. See how this works */
 
 class LoginChecker : public QObject
 {
