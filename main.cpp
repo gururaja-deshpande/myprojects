@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 
     QPushButton *button  = new QPushButton("Help");
     QPushButton *bMusic  = new QPushButton("Music");
-
+//Nikki changed the file
     QHBoxLayout *hLyt,*hLyt2;
     hLyt = new QHBoxLayout;
     hLyt2 = new QHBoxLayout;
