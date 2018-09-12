@@ -30,7 +30,9 @@ void Widget::blueTooth()
 void Widget::music()
 {
     qDebug() << "Music is connected"<<endl;
+    qDebug() << "Music is my passion"<<endl;
 }
+
 
 void Widget::help()
 {
