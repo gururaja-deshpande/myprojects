@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
     Widget w;
 
-    QPushButton *button  = new QPushButton("Help");
+    QPushButton *button  = new QPushButton("Help");//Help Pushbutton
     QPushButton *bMusic  = new QPushButton("Music");
 
     QHBoxLayout *hLyt,*hLyt2;
