@@ -25,6 +25,7 @@ void Widget::phone()
 void Widget::blueTooth()
 {
     qDebug() << "Phone is connected"<<endl;
+    qDebug() << "Bluetooth is connected"<<endl;
 }
 
 void Widget::music()
